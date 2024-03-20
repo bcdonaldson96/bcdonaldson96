@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bcdonaldson96
-- 👀 I’m a graduate student in oceanography. I do a LOT of data analysis.
+- 👀 I’m a graduate student in oceanography. I do a lot of data analysis and data visualization of atmospheric and oceanic data. 
 - 🌱 I’m currently learning more about geospatial analysis.
 - 📫 How to reach me: baileyd8@hawaii.edu
 - 😄 Pronouns: she/her/hers
